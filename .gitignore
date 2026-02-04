@@ -13,9 +13,11 @@ __pycache__/
 # Virtual environments
 .env
 .venv
+.ml-venv
 env/
 venv/
 ENV/
+ml-venv/
 
 # IDE / Editor settings
 .vscode/
